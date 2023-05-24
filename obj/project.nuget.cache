@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XxNhQL0oZ/BGpvz1JlmZnA5E6D3qtnTXbyW1E7jQ0SX1hFaisZNhJLeHIdoJC5UoygUFhfEemuCbdH6RcQX94g==",
+  "dgSpecHash": "y6MmQ1Zk9n4RtEkT0lNiC9S6tOpk3W5X6/btJG4d17fQqN5k4MSGxIjlxbbC5DYtMy0YaqW6BRCHxN88N3ASJg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\curtw\\workspace\\csharp\\exercises\\An-Adventurer-Quest\\An-Adventurer-Quest.csproj",
+  "projectFilePath": "C:\\Users\\curtw\\workspace\\csharp\\exercises\\Quest\\Quest.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

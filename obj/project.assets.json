@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\curtw\\workspace\\csharp\\exercises\\An-Adventurer-Quest\\An-Adventurer-Quest.csproj",
-      "projectName": "An-Adventurer-Quest",
-      "projectPath": "C:\\Users\\curtw\\workspace\\csharp\\exercises\\An-Adventurer-Quest\\An-Adventurer-Quest.csproj",
+      "projectUniqueName": "C:\\Users\\curtw\\workspace\\csharp\\exercises\\Quest\\Quest.csproj",
+      "projectName": "Quest",
+      "projectPath": "C:\\Users\\curtw\\workspace\\csharp\\exercises\\Quest\\Quest.csproj",
       "packagesPath": "C:\\Users\\curtw\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\curtw\\workspace\\csharp\\exercises\\An-Adventurer-Quest\\obj\\",
+      "outputPath": "C:\\Users\\curtw\\workspace\\csharp\\exercises\\Quest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\curtw\\AppData\\Roaming\\NuGet\\NuGet.Config",
